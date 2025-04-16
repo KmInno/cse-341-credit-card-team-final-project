@@ -1,0 +1,16 @@
+users
+
+  {
+    "firstName": "sample",
+    "lastName": "Lee",
+    "email": "brian.lee@example.com",
+    "phone": "+1-555-303-4040",
+    "address": {
+      "street": "42 Banana Street",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  },
+
