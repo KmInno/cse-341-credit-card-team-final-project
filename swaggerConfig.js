@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://cse-341-credit-card-team-final-project.onrender.com", // Change to your server URL
+        url: "cse-341-credit-card-team-final-project.onrender.com", // Change to your server URL
       },
     ],
   },
