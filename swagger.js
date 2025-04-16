@@ -6,7 +6,7 @@ const doc = {
     title: 'Credit Card API',
     description: 'Users, Credit Card, Transactions and Disputes'
   },
-  host: isProduction?"nesskenya-cse-341-credit-card-team-final.onrender.com":"localhost:8080",
+  host: isProduction?"https://cse-341-credit-card-team-final-project.onrender.com":"localhost:8080",
   schemes: isProduction ? ['https'] : ['http'],
 };
 
